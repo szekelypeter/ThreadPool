@@ -1,0 +1,6 @@
+c:\users\szekely peter\documents\visual studio 2015\Projects\ThreadPool\ThreaPool\bin\Debug\ThreaPool.exe.config
+c:\users\szekely peter\documents\visual studio 2015\Projects\ThreadPool\ThreaPool\bin\Debug\ThreaPool.exe
+c:\users\szekely peter\documents\visual studio 2015\Projects\ThreadPool\ThreaPool\bin\Debug\ThreaPool.pdb
+c:\users\szekely peter\documents\visual studio 2015\Projects\ThreadPool\ThreaPool\obj\Debug\ThreaPool.csprojResolveAssemblyReference.cache
+c:\users\szekely peter\documents\visual studio 2015\Projects\ThreadPool\ThreaPool\obj\Debug\ThreaPool.exe
+c:\users\szekely peter\documents\visual studio 2015\Projects\ThreadPool\ThreaPool\obj\Debug\ThreaPool.pdb
